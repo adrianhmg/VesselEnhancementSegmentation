@@ -1,0 +1,2 @@
+Here put an image, it's preferred to be on ".png" in "grayscale" file then
+run the command "python3 VesselEnhancementSegmentation.py", it will give you some the segmented image, with metric

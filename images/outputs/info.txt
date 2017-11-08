@@ -1,0 +1,1 @@
+After execute "python3 VesselEnhancementSegmentation.py", it will give you some the segmented image, with metrics HERE.
